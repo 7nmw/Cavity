@@ -1,4 +1,4 @@
-# Intensity and Phase profile beam in the ring cavity with Dove prizm
+# Intensity and Phase beam profile in the ring cavity with Dove prizm
 
 
 It has been shown theoretically that spiral-type beams are modes of a ring resonator with a beam rotator
