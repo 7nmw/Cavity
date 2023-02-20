@@ -1,7 +1,11 @@
-# Modal_Line_Width
-When the nonlinear interaction occurs inside a cavity, the cavity characteristics need to be considered. 
-In this case, the SPDC phase-matching linewidth, 𝛿𝜈, forms an envelope that is composed of 𝑚 modes separated by the free spectral range, 
-𝛥𝑓, of the cavity. The narrow mode linewidths, 𝛿𝜈, are determined by the length of the cavity and the losses from the cavity.
+# Intensity and Phase profile beam in the ring cavity with Dove prizm
+
+
+It has been shown theoretically that spiral-type beams are modes of a ring resonator with a beam rotator
 
 In this work, a calculation was made using information from the manuscript:
-https://doi.org/10.6028/jres.124.019
+https://doi.org/10.1016/S0030-4018(97)00215-0
+
+
+[PII_ S0030-4018(97)00215-0.pdf](https://github.com/7nmw/Modal_Line_Width/files/10783947/PII_.S0030-4018.97.00215-0.pdf)
+![3-3](https://user-images.githubusercontent.com/116585464/220097091-8f695099-431a-41a6-a128-daf583b3ac92.jpg)
